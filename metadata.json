@@ -1,0 +1,8 @@
+{
+  "name": "AI-Powered Dashboard Generator",
+  "description": "Upload data (CSV/Excel), ask a question, and let AI generate a dashboard with KPIs and charts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
